@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+<channel>
+
+<title>Certified Programming with Dependent Types updates</title>
+<link>http://adam.chlipala.net/cpdt/</link>
+<description>Updates to a draft textbook</description>
+
+<language>en-us</language>
+<managingEditor>adam@chlipala.net</managingEditor>
+<webMaster>adam@chlipala.net</webMaster>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+<item>
+        <title>Fix table of contents and mention another command needed to enter Chapter 2's code literally</title>
+        <pubDate>Wed, 3 Feb 2010 08:16:16 EST</pubDate>
+        <link>http://adam.chlipala.net/cpdt/</link>
+        <author>adam@chlipala.net</author>
+</item>
+
+<item>
+        <title>RSS feed created</title>
+        <pubDate>Wed, 27 Jan 2010 07:33:34 EST</pubDate>
+        <link>http://adam.chlipala.net/cpdt/</link>
+        <author>adam@chlipala.net</author>
+</item>
+
+</channel>
+</rss>
